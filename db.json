@@ -27,7 +27,7 @@
   ],
   "productos": [
     {
-      "imagen": "",
+      "imagen": "https://github.com/fernandojbcba/challenge-one-alurageek-latam/blob/main/asserts/img/productos/consola_4.png",
       "categoria": "consolas",
       "nombre": "mandos bicolor",
       "precio": "60.00",
