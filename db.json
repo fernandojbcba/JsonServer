@@ -77,7 +77,7 @@
         },
         {
             "imagen": "https://github.com/fernandojbcba/challenge-one-alurageek-latam/blob/main/img/productos/starwar_1.png?raw=true",
-            "categoria": "starwar",
+            "categoria": "starwars",
             "nombre": "mate",
             "precio": "60.00",
             "descripcion": "mate blanco",
@@ -85,7 +85,7 @@
         },
         {
             "imagen": "https://github.com/fernandojbcba/challenge-one-alurageek-latam/blob/main/img/productos/starwar_2.png?raw=true",
-            "categoria": "starwar",
+            "categoria": "starwars",
             "nombre": "cabeza mobil",
             "precio": "105.00",
             "descripcion": "cabeza mobil",
@@ -93,7 +93,7 @@
         },
         {
             "imagen": "https://github.com/fernandojbcba/challenge-one-alurageek-latam/blob/main/img/productos/starwar_3.png?raw=true",
-            "categoria": "starwar",
+            "categoria": "starwars",
             "nombre": "yoda",
             "precio": "610.00",
             "descripcion": "yoda",
@@ -101,7 +101,7 @@
         },
         {
             "imagen": "https://github.com/fernandojbcba/challenge-one-alurageek-latam/blob/main/img/productos/starwar_4.png?raw=true",
-            "categoria": "starwar",
+            "categoria": "starwars",
             "nombre": "soldado",
             "precio": "60.00",
             "descripcion": "soldado",
@@ -109,7 +109,7 @@
         },
         {
             "imagen": "https://github.com/fernandojbcba/challenge-one-alurageek-latam/blob/main/img/productos/starwar_5.png?raw=true",
-            "categoria": "starwar",
+            "categoria": "starwars",
             "nombre": "baby yoda",
             "precio": "660.00",
             "descripcion": "babyyoda",
@@ -117,7 +117,7 @@
         },
         {
             "imagen": "https://github.com/fernandojbcba/challenge-one-alurageek-latam/blob/main/img/productos/starwar_6.png?raw=true",
-            "categoria": "starwar",
+            "categoria": "starwars",
             "nombre": "darkvander",
             "precio": "660.00",
             "descripcion": "darkvander",
